@@ -111,13 +111,13 @@ initial_activities = {
     },
     "Manga Maniacs": {
         "description": "Dive into the bold worlds of Japanese Manga (graphic novels) through unforgettable heroes, epic twists, and lively discussion.",
-        "schedule": "Tuesdays at 7pm",
+        "schedule": "Tuesdays at 5pm",
         "schedule_details": {
             "days": ["Tuesday"],
-            "start_time": "19:00",
-            "end_time": "20:00"
+            "start_time": "17:00",
+            "end_time": "18:00"
         },
-        "max_participants": 15,
+        "max_participants": 25,
         "participants": []
     },
     "Math Club": {
